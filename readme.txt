@@ -11,3 +11,8 @@ This PC -> C drive -> Xampp -> htdocs (put in inside htdocs folder)
 
 4.open any browser then type localhost/(webfilename)/
 it will open the file
+
+Group 31
+Daniel Imtiyaz Bin Faisal               1201201743
+Kamarul Arifin Bin Kamaruzaman          1211300778
+Hemma Ravindran                         1211102066
