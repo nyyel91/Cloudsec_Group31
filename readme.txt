@@ -14,5 +14,7 @@ it will open the file
 
 Group 31
 Daniel Imtiyaz Bin Faisal               1201201743
-Kamarul Arifin Bin Kamaruzaman          1211300778
 Hemma Ravindran                         1211102066
+
+Assignemnt 2
+The code is given in the github naming as AWS_Assignment2
